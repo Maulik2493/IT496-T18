@@ -80,4 +80,4 @@ This Dataset contains readings from pressure, temperature, motor current, and ai
 
 We would like to express our sincere gratitude and appreciation to the [Prof. Arpit Rana](https://www.daiict.ac.in/faculty-details/3407) for his invaluable support and contributions to this project, and that to Vipasha Vaghela, Himanshu Beniwal, Aksh Patel, Parth Thakrar, Aditya Nawal, and Priyanshi Parmar.
 
-Made with ❤️ by DOPE-a-MINE.
+
