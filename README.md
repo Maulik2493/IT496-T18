@@ -63,6 +63,8 @@ The dataset contains the data of 7 analog and 8 digital sensors described below.
 1) **To determine the value of TP2 (pressure on compressor) with the help of different readings of analog sensors**
 - Results :
 
+* Note : here R^2 means coefficient of determination.
+
 - Linear Regression : R^2 = 0.945 , MSE = 0.755 , MAE =0.394.
 - RandomForest Regressor : R^2 = 0.998 , MSE = 0.136 , MAE =0.0338.
 - XGBRegressor  : R^2 = 0.997 , MSE = 0.161 , MAE =0.033.
